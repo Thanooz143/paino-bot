@@ -25,15 +25,15 @@ Uses the keyboard library to allow the user to stop the bot by pressing the "q" 
 
                                                                    How to Use
 
-Install the required libraries:
+1)Install the required libraries:
 
-pip install pyautogui keyboard
+2)pip install pyautogui keyboard
 
-Run the script and position the cursor over the game tiles to determine their coordinates.
+3)Run the script and position the cursor over the game tiles to determine their coordinates.
 
-Replace the hardcoded coordinates in the script with the actual tile positions from your game.
+4)Replace the hardcoded coordinates in the script with the actual tile positions from your game.
 
-Start the game and run the bot script. Press "q" to stop the bot.
+5)Start the game and run the bot script. Press "q" to stop the bot.
 
 Notes
 
