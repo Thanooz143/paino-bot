@@ -1,4 +1,4 @@
-Piano Tiles Bot
+    Piano Tiles Bot
 
 This project implements a bot to automatically play the popular game "Piano Tiles." Using Python's pyautogui library, the bot identifies the black tiles on the game screen and simulates mouse clicks to play the tiles in real time.
 
